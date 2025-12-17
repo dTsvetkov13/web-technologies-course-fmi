@@ -11,7 +11,7 @@ This demo shows the same AJAX functionality as Demo 1, but demonstrates how to u
 
 ## Structure
 ```
-demo4-php-includes/
+demo-php-includes/
 ├── index.php           # Main page (converted from HTML)
 ├── about.php           # Example second page
 ├── includes/
@@ -28,7 +28,7 @@ demo4-php-includes/
 ## How to Run
 1. Place in XAMPP's `htdocs` folder
 2. Start Apache
-3. Navigate to `http://localhost/demo4-php-includes/`
+3. Navigate to `http://localhost/demo-php-includes/`
 
 ## What's Different from Demo 1?
 - `index.html` → `index.php` (PHP file)
