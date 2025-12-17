@@ -11,7 +11,7 @@ This demo shows the same AJAX functionality as Demo 1, but demonstrates how to u
 
 ## Structure
 ```
-demo4-php-includes/
+demo-php-includes/
 ├── index.php           # Main page (converted from HTML)
 ├── about.php           # Example second page
 ├── includes/
